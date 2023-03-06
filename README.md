@@ -1,1 +1,1 @@
-Curso EspecializaTi de PHP 7
+Curso da EspecializaTi de PHP 7
